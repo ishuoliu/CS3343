@@ -1,5 +1,7 @@
 package poker;
 
+// an implementation of the Poker class
+
 public class Poker {
 	// Precondition: A hand of n cards have been sorted by card number.
 	public boolean isFullHouse(String cards[], int n) {
